@@ -1,5 +1,4 @@
 - Getting started
-
   - [Quick start](README.md)  
 - Topics
   - [Unsupervised Machine Learning](U_ML.md)
