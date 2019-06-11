@@ -1,11 +1,11 @@
-- Getting started
+- **Getting started**
   - [Quick start](README.md)  
-- Topics
+- **Topics**
   - [Unsupervised Machine Learning](U_ML.md)
   - [Supervised Machine Learning](S_ML.md)
   - [Pandas](pandas.md)
   - [Terms](terms.md)
-- Logs
+- **Logs**
   - [June 2019](logs.md)
 - [Books](books.md)
 - [References](references.md)
