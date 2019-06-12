@@ -42,5 +42,5 @@ Some keys points about the hyperparameters are:
 Number of trees in a Random Forest, eta in XGBoost, and k in k-nearest neighbours are some examples of hyperparameters.  
 
 Terms come from the following:  
-https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
-
+- https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
+- https://www.dataquest.io/blog/data-science-glossary/
