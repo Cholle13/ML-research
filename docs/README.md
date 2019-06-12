@@ -8,7 +8,7 @@ Author: Chris Holle
 - Developing a Machine Learning Framework to Reduce the Computational Burden of Reactive-Transport Simulations  
 - Applying Unsupervised Machine Learning using NTFK (Non-negative Tensor Factorization with k-means clustering) 
 - Groundwater Simulation  
-## Technologies:
+### Technologies:
 - Python
 - Pandas
 - Scikit-learn
