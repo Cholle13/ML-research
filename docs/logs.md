@@ -18,4 +18,5 @@
 - Began reading [Hands-On Unsupervised Learning Using Python](https://www.amazon.com/Hands-Unsupervised-Learning-Using-Python/dp/1492035645)
 - Optimized k-means workflow
 - Removed all negative values from simulated data sets.
-- Practiced 3D data visualization using matplotlib
+- Practiced 3D data visualization using matplotlib  
+- Met with Dr. Joshua Patrick to discuss Machine Learning
