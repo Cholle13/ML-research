@@ -12,6 +12,7 @@ For an exercise based refresher see [Statistics crash course.](https://machinele
 - Maximum Likelihood Estimation(MLE)
 - Bayesian Statistics
 - Correlations
+- [Hypothesis test](https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/)
 - Linear Regression
 - Logistics Regression
 - Data Types
