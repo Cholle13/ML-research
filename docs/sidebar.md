@@ -10,6 +10,7 @@
   - [Reinforcement Learning](RL.md)
   - [Statistics](stats.md)
   - [Pandas](pandas.md)
+  - [Scikit-Learn](Scikit-Learn.md)
   - [Terms](terms.md)
   
 - **Logs**
