@@ -8,6 +8,7 @@
   - [Supervised Machine Learning](S_ML.md)
   - [Deep Learning](deep_learning.md)
   - [Reinforcement Learning](RL.md)
+  - [Statistics](stats.md)
   - [Pandas](pandas.md)
   - [Terms](terms.md)
   
