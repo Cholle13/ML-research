@@ -20,3 +20,5 @@
 - Removed all negative values from simulated data sets.
 - Practiced 3D data visualization using matplotlib  
 - Met with Dr. Joshua Patrick to discuss Machine Learning
+- Reviewed Delft3D Tutorials and provided Troubleshooting tips.
+- Reviewed FEFLOW
