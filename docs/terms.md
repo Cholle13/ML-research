@@ -40,7 +40,14 @@ Some keys points about the hyperparameters are:
 - They are often manually set.
 - They are often tuned to tweak a model’s performance  
 Number of trees in a Random Forest, eta in XGBoost, and k in k-nearest neighbours are some examples of hyperparameters.  
+  
+## Deep Learning Terms
+
+**Dropout:** refers to dropping out or ignoring units during the training phase in a neural network.  
+- Why is it necessary?  When a fully connected layer contains most of the parameters, the neurons may become co-dependent during the training phase which lessens the individual power of each neuron. As a result, the training data may be over-fit.
+- TL;DR: Reduces chance of over-fitting.
 
 Terms come from the following:  
 - https://www.analyticsvidhya.com/glossary-of-common-statistics-and-machine-learning-terms/
 - https://www.dataquest.io/blog/data-science-glossary/
+- https://medium.com/@amarbudhiraja/https-medium-com-amarbudhiraja-learning-less-to-learn-better-dropout-in-deep-machine-learning-74334da4bfc5

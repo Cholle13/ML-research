@@ -6,6 +6,7 @@
 
   - [Unsupervised Machine Learning](U_ML.md)
   - [Supervised Machine Learning](S_ML.md)
+  - [Deep Learning](deep_learning.md)
   - [Pandas](pandas.md)
   - [Terms](terms.md)
   
