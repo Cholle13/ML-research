@@ -20,6 +20,7 @@ I will be documenting what I learn from the course in various sections of the do
 - Backpropagation
 - [Parameters vs Hyperparameters](https://towardsdatascience.com/understanding-hyperparameters-and-its-optimisation-techniques-f0debba07568)  
 - Regularization
+- Multi-Layer Perceptron(MLP)
 - Hyperparameter Tuning
 - Convolution Neural Networks
 - RNN
