@@ -23,6 +23,7 @@ I will be documenting what I learn from the course in various sections of the do
 - Multi-Layer Perceptron(MLP)
 - Hyperparameter Tuning
 - Convolution Neural Networks
+- [Batch Size](batch_size.md)
 - RNN
 - RELU
 - Sigmoid
