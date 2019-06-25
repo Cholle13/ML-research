@@ -9,7 +9,7 @@ I will be documenting what I learn from the course in various sections of the do
 ### Best practices
 - [Weight Initialization](https://medium.com/usf-msds/deep-learning-best-practices-1-weight-initialization-14e5c0295b94)
 - [Troubleshooting](https://www.youtube.com/watch?time_continue=1&v=GwGTwPcG0YM)
-- Hyperparameter tuning  
+- [Hyperparameter tuning](hyperparameter.md)  
 - [Backpropagation tips](https://machinelearningmastery.com/best-advice-for-configuring-backpropagation-for-deep-learning-neural-networks/)
 
 ### Concepts Explained
